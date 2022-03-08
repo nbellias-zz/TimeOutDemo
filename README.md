@@ -1,6 +1,8 @@
 # TimeOutDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+This project demonstrates session time-out control, together with idle time-out control.
+
+It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
 
