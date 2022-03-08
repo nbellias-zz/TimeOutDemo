@@ -1,6 +1,6 @@
 # TimeOutDemo
 
-This project demonstrates session time-out control, together with idle time-out control, using simple typescript techniques.
+This project demonstrates session time-out control, together with idle time-out control, using simple typescript techniques. Angular Material is used to give a more friendly UX.
 
 It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
